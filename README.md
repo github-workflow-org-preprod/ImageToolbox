@@ -83,7 +83,7 @@ send a donation to the crypto wallets below
 | </br> ![Bitcoin](https://img.shields.io/badge/Bitcoin-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white) <br/> <br/> ->  ```17Pk1RurnkJxLV9V7mc6Y7dLyHFb9rvQDq```  <- <br/> <br/> | </br> ![Tether](https://img.shields.io/badge/USDT-168363?style=for-the-badge&logo=tether&logoColor=white) <br/> <br/> ->  ```TMPAu7a54NvQNEKnNWh3naXu3oYijqP3U7```  <- <br/> <br/> |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 
-# 📲 Download
+# 📲 Download 
 
 Go to the [Releases](https://github.com/t8rin/imageresizer/releases/latest) and the download latest
 apk
